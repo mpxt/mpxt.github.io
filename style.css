@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+* {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.FR {
+    color: rgba(98, 255, 255, 0.76);
+}
+
+.EN {
+    color: rgb(228, 63, 63);
+}
+
+.Trinity {
+    color: rgb(82, 172, 94);
+}
+
+.Youtube:hover {
+    color: darkslateblue;
+    text-decoration: underline;
+}
